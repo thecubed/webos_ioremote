@@ -1,0 +1,22 @@
+{
+"returnValue": true,
+"results": [
+	{
+		"name": "Example Connection 1",
+		"type": "rdp",
+		"host": "example.com",
+		"port": "",
+		"username": "thecubed",
+		"password": "",
+		"domain": ""
+	},
+	{
+		"name": "Another Server Somewhere",
+		"type": "rdp",
+		"host": "example2.com",
+		"port": "3389",
+		"username": "someDude",
+		"password": "manna",
+		"domain": ""
+	}
+]}

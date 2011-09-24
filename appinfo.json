@@ -1,0 +1,10 @@
+{
+	"id": "com.thecubed.ioremote",
+	"version": "0.1.0",
+	"vendor": "TheCubed",
+	"type": "web",
+	"main": "index.html",
+	"title": "IORemote",
+	"icon": "icon.png",
+	"uiRevision":2
+}
