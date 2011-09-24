@@ -1,0 +1,5 @@
+This is IORemote, the simple webOS RDP/VNC GUI.
+This app depends on Xecutah and Xterm, written by the lovely folks at webos-internals.org.
+
+For any questions, please check the thread on precentral.
+Thanks!
